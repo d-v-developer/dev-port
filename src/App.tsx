@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-        dev portfolio
+        my dev portfolio
     </>
   )
 }
